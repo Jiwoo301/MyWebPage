@@ -1,0 +1,4 @@
+baseURL = "https://jiwoo301.github.io/MyWebPage/"
+languageCode = "ko-KR"
+title = "My WebPage"
+theme = "template"
