@@ -10,3 +10,8 @@ description = "전북대학교 컴퓨터인공지능학부 3학년 위지우의 
 [params.homeInfoParams]
 Title = "위지우"
 Content = "전북대학교 컴퓨터인공지능학부 3학년"
+
+[[menus.main]]
+name = "대표활동"
+pageRef = "/posts/featured-activity"
+weight = 10
