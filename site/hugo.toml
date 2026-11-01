@@ -5,7 +5,6 @@ title = "My WebPage"
 theme = "template"
 
 [params]
-author = "위지우"
 description = "전북대학교 컴퓨터인공지능학부 3학년 위지우의 개인 활동 기록"
 
 [params.homeInfoParams]
