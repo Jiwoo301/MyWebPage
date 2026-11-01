@@ -1,7 +1,7 @@
 baseURL = "https://jiwoo301.github.io/MyWebPage/"
 defaultContentLanguage = "ko"
 locale = "ko-KR"
-title = "위지우"
+title = "My WebPage"
 theme = "template"
 
 [params]
