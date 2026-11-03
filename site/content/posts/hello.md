@@ -1,6 +1,7 @@
 ---
 title: 관심분야
 draft: false
+weight: 1
 ---
 
 저의 관심분야는 합창입니다.

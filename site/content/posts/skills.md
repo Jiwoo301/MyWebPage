@@ -1,6 +1,7 @@
 ---
 title: 역량
 draft: false
+weight: 3
 ---
 
 저의 활용 역량은 엑셀입니다.
