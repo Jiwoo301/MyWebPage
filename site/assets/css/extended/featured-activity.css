@@ -6,3 +6,9 @@
 .post-content #process ~ ol + p {
     margin-top: 3.2em;
 }
+
+.post-content h2:is(#period, #purpose, #process, #results, #reflection) {
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgb(128 128 128 / 25%);
+}
