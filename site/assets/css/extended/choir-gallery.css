@@ -1,5 +1,5 @@
 .choir-gallery {
-    margin: 1rem 0;
+    margin: 3.2em 0 1rem;
 }
 
 .choir-gallery-photos {
@@ -25,6 +25,9 @@
     justify-content: center;
     gap: 1rem;
     margin-top: 0.5rem;
+    font-size: 12px;
+    line-height: 24px;
+    color: var(--secondary);
 }
 
 .choir-gallery-controls button {
@@ -34,7 +37,7 @@
     background: var(--code-bg);
     color: var(--primary);
     cursor: pointer;
-    font-size: 1.25rem;
+    font-size: inherit;
 }
 
 .choir-gallery:focus-visible,
