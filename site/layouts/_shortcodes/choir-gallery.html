@@ -10,6 +10,7 @@
         <span aria-live="polite" aria-atomic="true">1 / 2</span>
         <button type="button" data-direction="1" aria-label="다음 사진">&#10095;</button>
     </div>
+    <p class="choir-gallery-source">사진 출처: 전북대학교 합창단</p>
 </section>
 {{- $script := resources.Get "js/choir-gallery.js" | minify | fingerprint }}
 <script src="{{ $script.RelPermalink }}" defer></script>

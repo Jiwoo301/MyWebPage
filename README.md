@@ -100,3 +100,15 @@ GitHub 저장소의 **Settings → Pages → Build and deployment → Source**�
 - 테마 기반 원본: [hugo-paper](https://github.com/nanxiaobei/hugo-paper), 제작자 nanxiaobei.
 - 원본 테마의 설명과 참고 링크는 [테마 README](site/themes/template/README.md)에 보존되어 있습니다.
 - 라이선스 고지는 [루트 LICENSE](LICENSE)와 [테마 LICENSE](site/themes/template/LICENSE)에 보존되어 있습니다. 사이트 하단의 Hugo·PaperMod 출처 고지도 유지합니다.
+
+## 사진·자료 출처와 이용 안내
+
+| 자료 | 사용 위치 | 출처·제작 구분 | 이용 안내 |
+| --- | --- | --- | --- |
+| `site/assets/images/choir-group.jpg` | 관심분야 사진 슬라이드 첫 번째 사진 | 전북대학교 합창단 | AI 생성 이미지가 아닙니다. 별도의 재사용 라이선스를 제공하지 않습니다. |
+| `site/assets/images/choir-group-2.jpg` | 관심분야 사진 슬라이드 두 번째 사진 | 전북대학교 합창단 | AI 생성 이미지가 아닙니다. 별도의 재사용 라이선스를 제공하지 않습니다. |
+| `site/static/files/202422505_DB_proj_report.pdf` | 대표활동의 결과 항목에서 연결 | 작성자 위지우의 데이터베이스 수업 프로젝트 보고서 | 본인 활동 산출물로 게시하며 별도의 재사용 라이선스를 제공하지 않습니다. |
+
+사진 두 장의 출처는 전북대학교 합창단이며, 사진 아래에도 같은 출처를 표시합니다.
+
+테마의 MIT 라이선스는 위 사진과 보고서의 재사용 허락을 뜻하지 않습니다. 사진·보고서의 재사용은 해당 권리자의 이용 조건을 별도로 확인해야 합니다.

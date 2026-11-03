@@ -45,3 +45,10 @@
     outline: 2px solid var(--primary);
     outline-offset: 3px;
 }
+
+.choir-gallery-source {
+    margin-top: 0.5rem;
+    color: var(--secondary);
+    font-size: 12px;
+    text-align: center;
+}
