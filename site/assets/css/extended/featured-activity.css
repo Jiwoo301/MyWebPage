@@ -1,0 +1,3 @@
+.post-content h2:is(#introduction, #period, #purpose, #process, #results, #reflection) {
+    font-size: 24px;
+}
