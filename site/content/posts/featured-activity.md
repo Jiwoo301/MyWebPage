@@ -1,6 +1,7 @@
 ---
 title: 대표활동
 draft: false
+disableAnchoredHeadings: true
 ---
 
 ## 소개 {#introduction}
