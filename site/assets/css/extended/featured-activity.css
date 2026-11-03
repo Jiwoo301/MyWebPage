@@ -1,3 +1,8 @@
 .post-content h2:is(#introduction, #period, #purpose, #process, #results, #reflection) {
     font-size: 24px;
 }
+
+.post-content #process ~ p:has(+ ol),
+.post-content #process ~ ol + p {
+    margin-top: 3.2em;
+}
