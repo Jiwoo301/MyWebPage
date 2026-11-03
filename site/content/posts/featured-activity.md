@@ -12,6 +12,10 @@ disableAnchoredHeadings: true
 
 ## 시기 {#period}
 
+수행 기간: 2026년 6월 첫째 주
+
+진행 상태: 완료
+
 ## 목적 {#purpose}
 
 ## 과정 {#process}
